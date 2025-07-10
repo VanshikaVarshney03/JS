@@ -5,7 +5,7 @@
 // accountId =2
 // console.log(accountId) not allowed 
 
-accountEmail="hc@hc.com"
-accountPassword="6799"
-accountCity="banglore"
-console.table([accountId,accountEmail,accountPassword,accountCity])
+// accountEmail="hc@hc.com"
+// accountPassword="6799"
+// accountCity="banglore"
+// console.table([accountId,accountEmail,accountPassword,accountCity])

@@ -7,6 +7,7 @@
  //same as 
  console.log(typeof (score));
  let valueInNumber = Number(score)
+// let valueInNumber = parseInt(score)
  console.log(typeof valueInNumber);
  console.log( valueInNumber);
 

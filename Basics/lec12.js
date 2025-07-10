@@ -2,18 +2,25 @@
 // console.log(score);
 
 const balance = new Number(100)
-// console.log(balance);
+console.log(balance);
 
-// console.log(balance.toString().length);
-// console.log(balance.toFixed(1));
+console.log(balance.toString().length);
+console.log(balance.toFixed(1));
 //precision value -fixed
 
 const otherNumber = 123.8966
 
-// console.log(otherNumber.toPrecision(4));
+console.log(otherNumber.toPrecision(4));
 // precision range 1-21 and give in string
+
+let m = 0.00123456;
+
+m.toPrecision(2); // "0.0012"
+m.toPrecision(3); // "0.00123"
+m.toPrecision(4); // "0.001235"
+
 const hundreds = 1000000
-// console.log(hundreds.toLocaleString('en-IN'));
+console.log(hundreds.toLocaleString('en-IN'));
 
 // +++++++++++++ Maths +++++++++++++++++++++++++++++
 

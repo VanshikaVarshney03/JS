@@ -7,7 +7,7 @@
 const id = Symbol('123')
 const anotherId = Symbol('123')
 console.log(id==anotherId); //not same even the value passed are same therefore symbol make it unique
- //Refrence/Ninprimitive
+ //Refrence/Nonprimitive
  //Arrays,Objects,Functions
 
  const hero = ["hema","ritu"]
