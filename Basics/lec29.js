@@ -29,7 +29,7 @@ for (const [key, value] of map) {
     // console.log(key, ':-', value);
 }
 
-const myObject = {
+const myObject1= {
     game1: 'NFS',
     game2: 'Spiderman'
 }
@@ -139,7 +139,6 @@ const myNums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 // } )
 
 // console.log(newNums);
-
 
 const books = [
     { title: 'Book One', genre: 'Fiction', publish: 1981, edition: 2004 },
